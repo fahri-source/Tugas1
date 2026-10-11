@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
   "soal1": "tsx src/soal1.ts",
   "soal2": "tsx src/soal2.ts",
-  "soal3": "tsx src/soal3.ts"  
+  "soal3": "tsx src/soal3.ts",
+  "tugas": "tsx src/tugas.ts" 
 },
   "keywords": [],
   "author": "",
