@@ -2,12 +2,13 @@
   "name": "tugas1",
   "version": "1.0.0",
   "description": "",
-  "main": "soal3.js",
+  "main": "dist/tugas.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tugas": "tsx src/soal3.ts",
-    "nd" : "node dist/soal3.js"
-  },
+  "soal1": "tsx src/soal1.ts",
+  "soal2": "tsx src/soal2.ts",
+  "soal3": "tsx src/soal3.ts"  
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
