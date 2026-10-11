@@ -1,0 +1,19 @@
+{
+  "name": "tugas1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tugas": "tsx src/soal2.ts",
+    "nd" : "node dist/soal2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

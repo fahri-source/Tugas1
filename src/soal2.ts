@@ -1,0 +1,1 @@
+console.log("soal 2 tampilan");
