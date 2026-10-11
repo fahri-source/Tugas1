@@ -2,11 +2,11 @@
   "name": "tugas1",
   "version": "1.0.0",
   "description": "",
-  "main": "soal2.js",
+  "main": "soal3.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tugas": "tsx src/soal2.ts",
-    "nd" : "node dist/soal2.js"
+    "tugas": "tsx src/soal3.ts",
+    "nd" : "node dist/soal3.js"
   },
   "keywords": [],
   "author": "",
